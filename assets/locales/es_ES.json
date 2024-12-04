@@ -1,0 +1,27 @@
+{
+    "quotes": "Citas",
+    "ai": "IA",
+    "themes": "Temas",
+    "settings": "Configuración",
+    "copied": "Copiado",
+    "copied_to_clipboard": "Copiado al portapapeles",
+    "quote_assist": "Estoy aquí solo para ayudar con citas. ¡Por favor, pide citas!",
+    "error": "Error",
+    "failed_to_fetch_themes": "Error al obtener los temas",
+    "unlock_all": "Desbloquear todo",
+    "retry": "Reintentar",
+    "abc": "ABC",
+    "view_all": "Ver todo",
+  "general_settings": "Ajustes Generales",
+  "title_language": "Idioma",
+  "theme": "Tema",
+  "notifications": "Notificaciones",
+  "manage_notifications": "Gestionar Notificaciones",
+  "sound_settings": "Configuración de Sonido",
+  "privacy": "Privacidad",
+  "privacy_policy": "Política de Privacidad",
+  "data_protection": "Protección de Datos",
+  "about": "Acerca de",
+  "about_app": "Acerca de la Aplicación"
+  }
+  
